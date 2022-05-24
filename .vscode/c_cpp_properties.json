@@ -1,14 +1,19 @@
 {
-	"configurations": [
-		{
-			"name": "CubezEditor Editor Win64 Development (Cubez)",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Unreal_Projects\\Cubez\\.vscode\\compileCommands_Cubez.json"
-		},
-		{
-			"name": "Win32",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Unreal_Projects\\Cubez\\.vscode\\compileCommands_Default.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "CubezEditor Editor Win64 Development (Cubez)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Unreal_Projects\\Cubez\\Cubez\\.vscode\\compileCommands_Cubez.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Unreal_Projects\\Cubez\\Cubez\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }

@@ -5,7 +5,7 @@
 			"name": "Cubez (Debug)",
 			"request": "launch",
 			"preLaunchTask": "Cubez Win64 Debug Build",
-			"program": "C:\\Unreal_Projects\\Cubez\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "C:\\Unreal_Projects\\Cubez\\Cubez\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
@@ -18,7 +18,7 @@
 			"name": "Cubez (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "Cubez Win64 DebugGame Build",
-			"program": "C:\\Unreal_Projects\\Cubez\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "C:\\Unreal_Projects\\Cubez\\Cubez\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
@@ -31,7 +31,7 @@
 			"name": "Cubez (Development)",
 			"request": "launch",
 			"preLaunchTask": "Cubez Win64 Development Build",
-			"program": "C:\\Unreal_Projects\\Cubez\\Binaries\\Win64\\UE4.exe",
+			"program": "C:\\Unreal_Projects\\Cubez\\Cubez\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
@@ -44,7 +44,7 @@
 			"name": "Cubez (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "Cubez Win64 Shipping Build",
-			"program": "C:\\Unreal_Projects\\Cubez\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "C:\\Unreal_Projects\\Cubez\\Cubez\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
@@ -57,7 +57,7 @@
 			"name": "Cubez (Test)",
 			"request": "launch",
 			"preLaunchTask": "Cubez Win64 Test Build",
-			"program": "C:\\Unreal_Projects\\Cubez\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "C:\\Unreal_Projects\\Cubez\\Cubez\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "CubezEditor Win64 Debug Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"C:\\Unreal_Projects\\Cubez\\Cubez.uproject"
+				"C:\\Unreal_Projects\\Cubez\\Cubez\\Cubez.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "CubezEditor Win64 DebugGame Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"C:\\Unreal_Projects\\Cubez\\Cubez.uproject"
+				"C:\\Unreal_Projects\\Cubez\\Cubez\\Cubez.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "CubezEditor Win64 Development Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Unreal_Projects\\Cubez\\Cubez.uproject"
+				"C:\\Unreal_Projects\\Cubez\\Cubez\\Cubez.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=C:\\Unreal_Projects\\Cubez\\Cubez.uproject",
+				"-project=C:\\Unreal_Projects\\Cubez\\Cubez\\Cubez.uproject",
 				"-game",
 				"-engine"
 			],
